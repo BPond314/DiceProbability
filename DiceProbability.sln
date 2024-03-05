@@ -5,9 +5,14 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestCommonDivisor", "GreatestCommonDivisor\GreatestCommonDivisor.csproj", "{567C193C-BE9E-4797-A054-72783FC26BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDTests", "GCDTests\GCDTests.csproj", "{78104AF4-260D-4904-8E03-6BDABEE9975C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCDTests", "GCDTests\GCDTests.csproj", "{78104AF4-260D-4904-8E03-6BDABEE9975C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalProbabilitySpace", "ProbabilitySpace\TotalProbabilitySpace.csproj", "{D5722131-5F54-433F-B806-DAEDB108DF5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalProbabilitySpace", "ProbabilitySpace\TotalProbabilitySpace.csproj", "{D5722131-5F54-433F-B806-DAEDB108DF5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA4FFF97-C8FE-48CB-B10A-5F9FD5BBB4AD}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
